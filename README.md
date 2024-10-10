@@ -10,3 +10,4 @@ Sistema de Pontuação em Tempo Real: Exibe a pontuação atualizada do jogador 
 -----------------------------------------------------
 Tecnologias Utilizadas
 Java com Swing: Para criação da interface gráfica.
+![image](https://github.com/user-attachments/assets/6416ce5c-adaa-4ae5-a538-aab8cae8eefc)
